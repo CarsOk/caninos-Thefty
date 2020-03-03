@@ -1,0 +1,89 @@
+
+#banner{
+	background: #FEFB51;
+	border-radius: 1em 1em 0em 0em;
+	margin: 10px 400px;
+	height: 225px;
+	top: 0;
+	left: 0;
+	width: 31%;
+	
+}
+
+#banner2{
+	background: #FEFB51;
+	border-radius: 0em 0em 1em 1em;
+	margin: 10px 400px;
+	height: 225px;
+	top: 0;
+	left: 0;
+	width: 31%;
+}
+
+#banner .titulo1{
+	padding: 10px;
+	font-size: 19px;
+	color: #000;
+}
+
+#banner .subtitulo1{
+	padding: 0 10px;
+	font-size: 12px;
+	color: #000;
+	width: 60%;
+}
+
+#banner p{
+	margin: 40px 10px;
+	cursor: pointer;
+	width: 20%;
+	color: blue;
+	text-decoration: blink;
+}
+
+#banner2 .titulo2{
+	padding: 10px;
+	font-size: 19px;
+	color: #000;
+}
+
+#banner2 .subtitulo2{
+	padding: 0 10px;
+	font-size: 12px;
+	color: #000;
+	width: 60%;
+}
+
+#banner2 p{
+	margin: 40px 10px;
+	cursor: pointer;
+	width: 20%;
+	color: blue;
+	text-decoration: blink; 
+}
+
+#banner img{
+	border: solid;
+	border-color: black;
+	border-width: 2px;
+	border-radius: 1em;
+	display: block;
+	margin: -200px 250px;
+	width: 150px;
+	height: 125px;
+	position: relative;
+	background-repeat: no-repeat;
+}
+
+#banner2 img{
+	border: solid;
+	border-color: black;
+	border-width: 2px;
+	border-radius: 1em;
+	display: block;
+	margin: -200px 250px;
+	width: 150px;
+	height: 125px;
+	position: relative;
+	background-repeat: no-repeat;
+}

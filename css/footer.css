@@ -1,0 +1,15 @@
+
+#abajo .ultimo{
+	margin: 0 400px;
+ 	padding: 10px 0;
+	background: #333;
+	border-radius: 0em 0em 1em 1em;
+	height: 50px;
+	width: 50%;
+}
+
+.ultimo h1{
+	font-size: 10px;
+	text-align: center;
+	color: gray;
+}
